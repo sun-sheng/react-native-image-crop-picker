@@ -19,7 +19,8 @@
     self.checkmarkLineWidth = 1.2;
     
     self.borderColor = [UIColor whiteColor];
-    self.bodyColor = [UIColor colorWithRed:(20.0 / 255.0) green:(111.0 / 255.0) blue:(223.0 / 255.0) alpha:1.0];
+    // change color for tezign
+    self.bodyColor = [UIColor colorWithRed:0.235 green:0.784 blue:0.706 alpha:1];
     self.checkmarkColor = [UIColor whiteColor];
     
     // Set shadow
